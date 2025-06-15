@@ -94,7 +94,7 @@ export default function PrivacyPolicy() {
           <h2 className={styles.h2}>Contact Us</h2>
           <p className={styles.p}>
             If you have questions about this Privacy Policy, contact us at:<br />
-            <strong>Email: aiobible1@gmail.com</strong>
+            <strong>Email:</strong> <a className='text-blue-800'>aiobible1@gmail.com</a>
           </p>
         </section>
       </main>
