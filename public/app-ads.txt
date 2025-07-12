@@ -1,1 +1,3 @@
 google.com, pub-7369631012663502, DIRECT, f08c47fec0942fa0
+User-agent: Google-adstxt
+Disallow:
