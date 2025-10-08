@@ -135,7 +135,7 @@ export default function PrivacyPolicy() {
           <h2 className={styles.h2}>Contact Us</h2>
           <p className={styles.p}>
             If you have questions or concerns about this Privacy Policy, contact us at:<br />
-            <strong>Email:</strong> <a href="mailto:aiobible1@gmail.com" className="text-blue-800">aiobible1@gmail.com</a>
+            <strong>Email:</strong> <a href="mailto:aiobible1@gmail.com" className="text-blue-800">brisr@gmail.com</a>
           </p>
         </section>
       </main>
