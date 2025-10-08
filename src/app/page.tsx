@@ -63,6 +63,17 @@ export default function Home() {
                 View AiO Bible Privacy Policy
               </Link>
             </section>
+
+             <section className="bg-gray-100 rounded-lg p-6 shadow-md text-center">
+              <h3 className="text-xl font-medium mb-2">🔗 Bri Screen Recorder</h3>
+              <p className="mb-3 text-gray-700">View the privacy policy for our Screen Recording app below:</p>
+              <Link
+                href="/bri-sr-policy"
+                className="inline-block bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition"
+              >
+                View Bri Screen Recorder Privacy Policy
+              </Link>
+            </section>
           </>
         )}
 
